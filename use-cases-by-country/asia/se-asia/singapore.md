@@ -10,7 +10,7 @@
 
 **Capital Controls -** 
 
-**Send -** Large migrant communities.  Migrants from Myanmar use informal remittance services due to 1. low trust in banks 2. high paperwork hurdles and  3. financial infrastructre doesn't exist to send money to rural locations. 
+**Send -** Large migrant communities.  Migrants from Myanmar use informal remittance services due to 1. low trust in banks 2. high paperwork hurdles and  3. financial infrastructure doesn't exist to send money to rural locations. 
 
 **Spend -** 
 
