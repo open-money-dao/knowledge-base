@@ -87,5 +87,6 @@
 * [Australia](use-cases-by-country/australia.md)
 * [Europe](use-cases-by-country/europe.md)
 * [North America](use-cases-by-country/north-america.md)
-* [South America](use-cases-by-country/south-america.md)
+* [South America](use-cases-by-country/south-america/README.md)
+  * [Argentina](use-cases-by-country/south-america/argentina.md)
 
