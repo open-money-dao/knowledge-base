@@ -2,7 +2,7 @@
 
 ### Send
 
-* Capital controls prevent sending out of or into countries in any amount or small limits.
+* Capital controls prevent sending out of or into countries in any amount or small limits
 * Fees by sending or receiving banks, whether sending within or outside the country
 * Exchange rates set by banks or countries at unreasonable levels
 * Documentation requirements too strict

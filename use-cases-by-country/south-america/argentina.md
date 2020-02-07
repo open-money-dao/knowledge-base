@@ -4,7 +4,7 @@
 
 | **Country** | Govt | Population | [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product) / Capita | GDP \([PPP](https://en.wikipedia.org/wiki/Purchasing_power_parity)\) / Capita | Currency | Capital Controls |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Argentina | Constitutional  | 44m | $9,887 | $20,055 | Peso \(ARS\) | Yes |
+| Argentina | Constitutional Republic  | 44m | $9,887 | $20,055 | Peso \(ARS\) | Yes |
 
 **Inflation:** inflation of 53.8 recorded in 2019 - highest it has been in the past 3 decades - currency is volatile before or after political instability such as elections etc - suffering from high debt - monetary policies implemented in 2018 have not reduced inflation and have deepened the country's recession
 
