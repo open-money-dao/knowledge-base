@@ -10,13 +10,13 @@
 
 **Capital Controls:** Residents and non-residents are restricted to foreign exchange purchases of $10,000 and $1,000 a month respectively. Exporters have between five to fifteen days to repatriate earnings and businesses require permission from the government to buy dollars or bring in profits abroad. 
 
-**Send -** 
+**Send -**  Banks charge $50 + 3% tax for wire transfers internationally. Services such as PayPal are used, however when sending overseas, converting Peso into USD can be expensive due to the high exchange rate banks charge 
 
-**Spend -** 
+**Spend -** Credit and Debit cards, as well as cash are the most common methods of spending money. However, to justify the spending and payment of tax on income received, it must be from the bank account as it is regulated by the AFIP
 
-**Store -** 
+**Store -** People are allowed to operate a USD account as well as a Peso account in Argentina. However, due to currency volatility, people prefer to store their money in USD or in off-shore accounts to retain value of their assets. 
 
-**Save -** 
+**Save -** In times of uncertainty, such as during an upcoming election or crisis from a natural disaster, people prefer to store their money in USD, send it to off-shore accounts or withdraw it directly from the bank. However, with the capital controls in place, it makes it difficult for large sums of money
 
-**Earn -** 
+**Earn -** Freelancers or service providers earning from abroad have up to five working days to go change their USD into Peso at the bank. Without justifying the exchange from USD to Peso, one might not be able to purchase a house or a car. The AFIP conduct door to door knocking on those who have not paid taxes on dollars received
 
