@@ -18,6 +18,7 @@
 
 * [Active Research](use-cases-by-country/use-cases-and-problems-by-country.md)
 * [Africa](use-cases-by-country/africa/README.md)
+  * [Kenya](use-cases-by-country/africa/kenya.md)
   * [Zimbabwe](use-cases-by-country/africa/zimbabwe.md)
 * [Asia](use-cases-by-country/asia/README.md)
   * [South East Asia](use-cases-by-country/asia/se-asia/README.md)
