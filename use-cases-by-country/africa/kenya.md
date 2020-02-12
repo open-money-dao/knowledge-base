@@ -16,5 +16,5 @@
 
 **Save -** Methods include government bonds, real estate, pawns as well as local investment. Also used are forex markets as well as commodity markets such as the Nairobi securities Exchange. Banks provide a minimal rate for savings and can only be locked up for a long duration
 
-**Earn -** Rich with natural resources as well as infrastructure to renewable energy, 
+**Earn -** 
 
