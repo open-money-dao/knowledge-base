@@ -18,7 +18,7 @@
 
 **Store -** Currency devaluation has not been a problem recently but it is still fresh in their memories from previous decades. Most keep their savings in USD cash, gold, and real estate to hedge against currency risk. Banks deposits are not 100% insured and from time to time, bankers run off with the balance sheet and depositors suffer "bail in" losses on their deposits, causing people to be wary of keeping too much money in banks.
 
-**Save -** Banks offer term deposit interest rates between 5%-8%, priced in VND. Real Estate prices have been on a long bull run and have increased dramatically in recent years, fueling speculation. US stocks are not available to most, some invest in the small local stock exchange.
+**Save -** Banks offer term deposit interest rates between 5%-8%, priced in VND. Real Estate prices have been on a long bull run and have increased dramatically in recent years, fuelling speculation. US stocks are not available to most, some invest in the small local stock exchange.
 
 **Earn -** Growing outsourcing industry for IT and Back Office workers. Some receive payments directly from overseas. Larger companies typically setup a local office for handling employment operations.
 

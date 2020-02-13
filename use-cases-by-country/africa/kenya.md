@@ -16,5 +16,5 @@
 
 **Save -** Methods include government bonds, real estate, pawns as well as local investment. Also used are forex markets as well as commodity markets such as the Nairobi securities Exchange. Banks provide a minimal rate for savings and can only be locked up for a long duration
 
-**Earn -** 
+**Earn -** Financial hub for East Africa and a lot of emerging start-ups focusing on developing renewable energy in Kenya. The economy is purely service driven whereby hospitality and tourism are key economic drivers.
 
